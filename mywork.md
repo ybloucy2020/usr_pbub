@@ -3,3 +3,4 @@
 3. add three;
 4. del four;
 5. add five;
+6. add six;
